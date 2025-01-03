@@ -1,0 +1,19 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "wilson need for Git",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2025-01-03T07:43:39Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
