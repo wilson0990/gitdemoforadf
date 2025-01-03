@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "wilson need for Git",
+				"name": "this is wait activity",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
